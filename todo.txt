@@ -1,4 +1,1 @@
-Choose Todo.txt folder via "Settings"
-Spread the word about "Go For It!"
-Consider a donation to help the project
-Consider contributing to the project
+Add Go For it ToDo file in Github
